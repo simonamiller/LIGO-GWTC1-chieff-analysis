@@ -1,5 +1,5 @@
 # LIGO GWTC-1 chi-eff population analysis
-This respository contains examples of the code used for the analyses performed in my undergraduate thesis at Smith college. I hierarchically measure the mean $\mu$ and variance $\sigma^2$ of the effective-spin (chi-eff, $\chi_\mathrm{eff}$) distribution across binary black holes using LIGO's GWTC-1. 
+This respository contains examples of the code used for the analyses performed in my undergraduate thesis at Smith college. I hierarchically measure the mean <img src="https://render.githubusercontent.com/render/math?math=\mu"> and variance <img src="https://render.githubusercontent.com/render/math?math=\sigma^2"> of the effective-spin (chi-eff, $\chi_\mathrm{eff}$) distribution across binary black holes using LIGO's GWTC-1. 
 
 This work also appears in my publication Miller et. al, The Low Effective Spin of Binary Black Holes and Implications for Individual Gravitational-Wave Events, published Jan 2020: https://arxiv.org/abs/2001.06051
 
